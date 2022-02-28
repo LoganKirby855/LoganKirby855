@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoganKirby855
-- 👀 I’m interested in ... learning HTML, Javascript, CSS for web development
-- 🌱 I’m currently learning ... Javascript on Codecademy
+- 👀 I’m interested in ... learning SQL, Tableau, Python for Data Analytics and other programming languages.
+- 🌱 I’m currently learning ... SQL and Python on Codecademy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
